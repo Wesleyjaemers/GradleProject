@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08ccf1ff-4adb-475f-a77f-3f0bf28c75ad" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/java_packages/UnitTestingClasses/Fraction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/java_packages/UnitTestingClasses/FractionMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/java_packages/UnitTestingClasses/Prime.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -696,6 +691,35 @@
       <option name="presentableId" value="Default" />
       <updated>1529399789759</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add Travis.yml">
+      <created>1529415544604</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1529415544604</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add Travis.yml test">
+      <created>1529415605226</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1529415605226</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add Travis.yml test">
+      <created>1529415623949</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1529415623949</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add Travis.yml test">
+      <created>1529415984179</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1529415984179</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -763,6 +787,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Travis.yml" />
+    <MESSAGE value="Add Travis.yml test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Travis.yml test" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/java_packages/Oefeningen/RandomPrime.java">
