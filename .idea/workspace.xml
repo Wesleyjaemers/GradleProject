@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="08ccf1ff-4adb-475f-a77f-3f0bf28c75ad" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FractionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FractionTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -57,12 +58,12 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="68">
+              <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -71,7 +72,7 @@
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -79,8 +80,8 @@
       <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/settings.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="51">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -91,7 +92,7 @@
       <file leaf-file-name="Randomizer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/java_packages/Oefeningen/Randomizer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
+            <state relative-caret-position="34">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
@@ -100,7 +101,7 @@
       <file leaf-file-name="NumberPyramid.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/java_packages/Oefeningen/NumberPyramid.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
+            <state relative-caret-position="374">
               <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
             </state>
           </provider>
@@ -120,9 +121,10 @@
       <file leaf-file-name="FractionTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/FractionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="39" selection-start-column="7" selection-end-column="39" />
+            <state relative-caret-position="187">
+              <caret line="14" column="48" lean-forward="true" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#1602#1603#0" expanded="true" />
                 <element signature="e#1636#1637#0" expanded="true" />
               </folding>
@@ -133,12 +135,8 @@
       <file leaf-file-name="Fraction.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/java_packages/UnitTestingClasses/Fraction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
+            <state relative-caret-position="544">
               <caret line="38" selection-start-line="38" selection-end-line="38" />
-              <folding>
-                <element signature="e#1404#1405#0" expanded="true" />
-                <element signature="e#1474#1475#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -146,7 +144,7 @@
       <file leaf-file-name="FractionMain.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/java_packages/UnitTestingClasses/FractionMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="153">
               <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
@@ -160,7 +158,7 @@
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$" value="/usr/local/Cellar/gradle/4.7/libexec" />
+        <entry key="$PROJECT_DIR$" value="C:\Users\Joaper\.gradle\wrapper\dists\gradle-4.7-bin\73xux3q4721jgr4pjvqf9o30\gradle-4.7" />
       </map>
     </option>
     <option name="myGradleVersions">
@@ -365,7 +363,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4588210877000" />
+        <entry key="$PROJECT_DIR$" value="4588313184207" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/build.gradle" value="1762117150" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="3680166970" />
@@ -390,81 +388,6 @@
               <option name="name" value="MijnGradleProject" />
               <option name="projectBuildClasspath">
                 <list>
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/ant-1.9.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/ant-launcher-1.9.9.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-base-services-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-base-services-groovy-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-build-cache-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-build-option-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-cli-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-core-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-core-api-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-docs-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-installation-beacon-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-jvm-services-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-kotlin-dsl-0.16.3.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-kotlin-dsl-tooling-builders-0.16.3.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-kotlin-dsl-tooling-models-0.16.3.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-launcher-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-logging-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-messaging-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-model-core-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-model-groovy-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-native-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-persistent-cache-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-process-services-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-resources-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-runtime-api-info-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-tooling-api-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-wrapper-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/groovy-all-2.4.12.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-announce-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-antlr-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-build-cache-http-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-build-comparison-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-build-init-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-code-quality-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-composite-builds-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-dependency-management-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-diagnostics-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-ear-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-ide-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-ide-native-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-ide-play-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-ivy-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-jacoco-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-javascript-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-language-groovy-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-language-java-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-language-jvm-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-language-native-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-language-scala-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-maven-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-osgi-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-platform-base-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-platform-jvm-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-platform-native-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-platform-play-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-plugin-development-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-plugin-use-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-plugins-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-publish-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-reporting-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-resources-gcs-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-resources-http-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-resources-s3-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-resources-sftp-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-scala-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-signing-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-test-kit-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-testing-base-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-testing-junit-platform-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-testing-jvm-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-testing-native-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-tooling-api-builders-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-version-control-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-workers-4.7.jar" />
-                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/ivy-2.2.0.jar" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
                 </list>
@@ -484,11 +407,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/java_packages/UnitTestingClasses/FractionMain.java" />
-        <option value="$PROJECT_DIR$/src/test/java/FractionTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/java_packages/UnitTestingClasses/Fraction.java" />
         <option value="$PROJECT_DIR$/src/test/java/PrimeTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/java_packages/Oefeningen/NumberPyramid.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/test/java/FractionTest.java" />
         <option value="$PROJECT_DIR$/.travis.yml" />
       </list>
     </option>
@@ -505,23 +428,43 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="MijnGradleProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MijnGradleProject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="GradleProject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="MijnGradleProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="GradleProject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MijnGradleProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GradleProject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="MijnGradleProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GradleProject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="MijnGradleProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GradleProject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -719,7 +662,14 @@
       <option name="project" value="LOCAL" />
       <updated>1529415984179</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add Travis.yml test">
+      <created>1529438038645</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1529438038645</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -752,24 +702,23 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1147" y="23" width="1413" height="1337" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="bottom" id="Messages" order="4" weight="0.32983872" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
       <window_info id="Image Layers" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.36290324" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.36290324" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.46681255" />
-      <window_info anchor="bottom" id="Build" order="3" weight="0.33553115" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.33958334" />
+      <window_info anchor="bottom" id="Build" order="3" visible="true" weight="0.35069075" />
       <window_info anchor="right" id="Gradle" order="1" weight="0.5645514" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
@@ -777,12 +726,13 @@
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.32983872" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -794,27 +744,42 @@
     <option name="LAST_COMMIT_MESSAGE" value="Add Travis.yml test" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/java_packages/Oefeningen/RandomPrime.java">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java_packages/UnitTestingClasses/FractionMain.java">
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java_packages/UnitTestingClasses/Fraction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="51">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           <folding>
-            <element signature="e#1404#1405#0" expanded="true" />
-            <element signature="e#1474#1475#0" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_packages/Oefeningen/Randomizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_packages/Oefeningen/NumberPyramid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PrimeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -824,9 +789,52 @@
         <state>
           <caret column="39" selection-start-column="7" selection-end-column="39" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#1602#1603#0" expanded="true" />
             <element signature="e#1636#1637#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_packages/UnitTestingClasses/Fraction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_packages/UnitTestingClasses/FractionMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_packages/Oefeningen/RandomPrime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_packages/UnitTestingClasses/FractionMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_packages/UnitTestingClasses/Fraction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
@@ -841,39 +849,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/java_packages/Oefeningen/Randomizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
+        <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/java_packages/Oefeningen/NumberPyramid.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
+        <state relative-caret-position="374">
           <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="51">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/FractionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="48" lean-forward="true" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1602#1603#0" expanded="true" />
+            <element signature="e#1636#1637#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="68">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
