@@ -8,7 +8,7 @@ public class FractionTest {
 
     @Test
     public void positiveNumbersCanAdd (){
-        Fraction a = new Fraction(4,10); //aangepast voor Gradle
+        Fraction a = new Fraction(4,8);
         Fraction b = new Fraction(6,5);
 
         res = a.add(b);
