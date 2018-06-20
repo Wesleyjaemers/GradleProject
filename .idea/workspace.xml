@@ -493,7 +493,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
     <option name="x" value="1147" />
     <option name="y" value="23" />
     <option name="width" value="1413" />
@@ -719,14 +719,7 @@
       <option name="project" value="LOCAL" />
       <updated>1529415984179</updated>
     </task>
-    <task id="LOCAL-00005" summary="Add Travis.yml test">
-      <created>1529416212858</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1529416212858</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -770,7 +763,7 @@
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.36290324" />
+      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.36290324" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info id="Capture Tool" order="2" />
