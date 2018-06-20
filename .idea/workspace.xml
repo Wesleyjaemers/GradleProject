@@ -2,10 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08ccf1ff-4adb-475f-a77f-3f0bf28c75ad" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.7/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.7/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.7/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.7/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.7/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.7/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/MijnGradleProject_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/MijnGradleProject_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/MijnGradleProject_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/MijnGradleProject_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/java_packages/Oefeningen/NumberPyramid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/java_packages/Oefeningen/NumberPyramid.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/java_packages/UnitTestingclasses/PrimeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/FractionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FractionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/distributions/MijnGradleProject.tar" beforeDir="false" afterPath="$PROJECT_DIR$/build/distributions/MijnGradleProject.tar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/distributions/MijnGradleProject.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/distributions/MijnGradleProject.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/scripts/MijnGradleProject" beforeDir="false" afterPath="$PROJECT_DIR$/build/scripts/MijnGradleProject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/scripts/MijnGradleProject.bat" beforeDir="false" afterPath="$PROJECT_DIR$/build/scripts/MijnGradleProject.bat" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -61,11 +72,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="375">
+              <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -102,7 +113,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FractionTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FractionTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/FractionTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
@@ -112,6 +123,15 @@
                 <element signature="e#1602#1603#0" expanded="true" />
                 <element signature="e#1636#1637#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GuessingGame.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/java_packages/Oefeningen/GuessingGame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -157,6 +177,10 @@
         <entry key="$PROJECT_DIR$">
           <value>
             <list>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="boilWater" />
+              </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the components produced by root project 'MijnGradleProject'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -221,6 +245,10 @@
                 <option name="description" value="Displays the configuration model of root project 'MijnGradleProject'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="copyFiles" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Installs the project as a distribution as-is." />
@@ -298,6 +326,10 @@
                 <option name="name" value="help" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="serveTea" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="build" />
@@ -311,6 +343,10 @@
                 <option name="description" value="Bundles the project as a distribution." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="distTar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="pourOverKarel" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Bundles the project as a distribution." />
@@ -329,9 +365,9 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4588210877000" />
+        <entry key="$PROJECT_DIR$" value="4588285875000" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="1762117150" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="2987763770" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="3680166970" />
       </map>
     </option>
@@ -451,9 +487,9 @@
         <option value="$PROJECT_DIR$/src/main/java/java_packages/UnitTestingClasses/Fraction.java" />
         <option value="$PROJECT_DIR$/src/test/java/PrimeTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/java_packages/Oefeningen/NumberPyramid.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/src/test/java/FractionTest.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
       </list>
     </option>
   </component>
@@ -479,7 +515,39 @@
             <path>
               <item name="MijnGradleProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="MijnGradleProject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MijnGradleProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MijnGradleProject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="distributions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MijnGradleProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MijnGradleProject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MijnGradleProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MijnGradleProject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="MijnGradleProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MijnGradleProject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MijnGradleProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MijnGradleProject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java_packages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MijnGradleProject" type="b2602c69:ProjectViewProjectNode" />
@@ -517,18 +585,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GuessingGame">
-    <configuration name="FractionMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_packages.UnitTestingClasses.FractionMain" />
-      <module name="MijnGradleProject_main" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_packages.UnitTestingClasses.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Groovy.build">
     <configuration name="GuessingGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java_packages.Oefeningen.GuessingGame" />
       <module name="MijnGradleProject_main" />
@@ -542,6 +599,14 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="build" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="MijnGradleProject" />
+      <setting name="path" value="file://$PROJECT_DIR$/build.gradle" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
     </configuration>
     <configuration name="FractionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MijnGradleProject_test" />
@@ -633,19 +698,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.FractionMain" />
       <item itemvalue="JUnit.FractionTest" />
       <item itemvalue="JUnit.FractionTest.nominatorCantBeZero" />
       <item itemvalue="JUnit.FractionTest.positiveNumbersCanAdd" />
       <item itemvalue="Application.GuessingGame" />
+      <item itemvalue="Groovy.build" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Groovy.build" />
         <item itemvalue="Application.GuessingGame" />
         <item itemvalue="JUnit.FractionTest" />
         <item itemvalue="JUnit.FractionTest.positiveNumbersCanAdd" />
         <item itemvalue="JUnit.FractionTest.nominatorCantBeZero" />
-        <item itemvalue="Application.FractionMain" />
       </list>
     </recent_temporary>
   </component>
@@ -695,13 +760,17 @@
       <option name="project" value="LOCAL" />
       <updated>1529477224170</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Merge branch 'master' of https://github.com/Wesleyjaemers/GradleProject&#10;&#10;fixed error (Gradle test2)">
+      <created>1529477507760</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1529477507760</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FractionTest - 2018.06.19 at 12h 38m 04s.xml">
-      <configuration name="FractionTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FractionTest - 2018.06.19 at 12h 39m 26s.xml">
       <configuration name="FractionTest" configurationId="JUnit" />
     </history-entry>
@@ -729,10 +798,12 @@
     <history-entry file="FractionTest_positiveNumbersCanAdd - 2018.06.20 at 08h 46m 27s.xml">
       <configuration name="FractionTest.positiveNumbersCanAdd" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="FractionTest - 2018.06.20 at 08h 50m 43s.xml">
+      <configuration name="FractionTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="bottom" id="TODO" order="11" />
@@ -742,12 +813,13 @@
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.36263737" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.36263737" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.32967034" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32967034" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
       <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25774425" />
+      <window_info anchor="bottom" id="Build" order="3" weight="0.33553115" />
       <window_info anchor="right" id="Gradle" order="1" weight="0.5645514" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
@@ -778,7 +850,6 @@
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="bottom" id="Build" order="3" weight="0.33553115" />
       <window_info anchor="bottom" id="Find" order="6" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.46681255" />
@@ -791,7 +862,8 @@
     <MESSAGE value="Add Travis.yml" />
     <MESSAGE value="Add Travis.yml test" />
     <MESSAGE value="Merge branch 'master' of https://github.com/Wesleyjaemers/GradleProject&#10;&#10;fixed error (Gradle test)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/Wesleyjaemers/GradleProject&#10;&#10;fixed error (Gradle test)" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/Wesleyjaemers/GradleProject&#10;&#10;fixed error (Gradle test2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/Wesleyjaemers/GradleProject&#10;&#10;fixed error (Gradle test2)" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/build.gradle">
@@ -1001,13 +1073,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1024,6 +1089,20 @@
             <element signature="e#1602#1603#0" expanded="true" />
             <element signature="e#1636#1637#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_packages/Oefeningen/GuessingGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
         </state>
       </provider>
     </entry>

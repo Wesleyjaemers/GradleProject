@@ -1,8 +1,10 @@
 apply plugin: 'java'
 apply plugin: 'application'
 
-mainClassName = "java_packages.Oefeningen.GuessingGame"
+mainClassName = "java_packages.Oefeningen.GuessinggraGame"
 run.args("Welcome")
+
+
 
 run{
     standardInput = System.in  //hiermee activeert de scanner wel
@@ -10,3 +12,15 @@ run{
 
 repositories {mavenCentral()}
 dependencies {testCompile group: 'junit', name: 'junit', version: '4.12'}
+
+task boilWater {doLast {println"boil water"}}
+task serveTea (dependsOn:boilWater) {doLast {println"serve tea"}}
+task pourOverKarel (dependsOn:serveTea) {doLast {println"Burn mf"}}
+
+
+task copyFiles (type: Copy){
+    from "src/main/java/java_packages/Animals"
+    into "build/distributions/test"
+}
+
+defaultTasks "serveTea"
